@@ -737,3 +737,15 @@ footer a{
 a {
 	color: #000;
 }
+.link {
+	display: inline-flex;
+	align-items:center;
+	margin: 3%;
+}
+
+.linkIcon {
+	display: inline-block;
+	max-width: 70px;
+	min-width: 70px;
+	border-radius: 50%;
+}
